@@ -3,7 +3,7 @@
     "description": "backport",
     "type": "library",
     "keywords": ["laravel", "backport", "backend", "wiledia"],
-    "homepage": "https://github.com/wiledia/backport",
+    "homepage": "https://github.com/king0fCode/backport",
     "license": "MIT",
     "authors": [
         {
